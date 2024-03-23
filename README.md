@@ -38,13 +38,13 @@ The test results will be saved to `./result` by default.
 * `style_dir`: FOLDER-PATH-TO-STYLE-IMAGES
 
 ### Separation Module
-<img src="./Images/Compare_AttentionGAN_Reverse.pdf" width="1000" title="separation module"> 
+<img src="./Images/Compare_AttentionGAN_Reverse.png" width="1000" title="separation module"> 
 
 ### Results
 ```bash
 python Color_transform_eval.py
 ```
-<img src="./Images/Fig_ImageNet_R2_S.pdf" width="1000" title="results"> 
+<img src="./Images/Fig_ImageNet_R2_S.png" width="1000" title="results"> 
 
 ## Acknowledgement
 * Part of the segmentation code is provided by [Yolact](https://github.com/dbolya/yolact).
